@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrishnaGadam
-- 👀 I’m interested in web devlopment,android devlopment and java.
+- 👀 I’m interested in web devlopment,DSA and C++.
 - 🌱 I’m currently pursuing BE degree from Pune Institute of Computer Technology.
 - 💞️ I’m looking to collaborate on upcoming project.
 - 📫 How to reach me krishnagadam3501@gmail.com
